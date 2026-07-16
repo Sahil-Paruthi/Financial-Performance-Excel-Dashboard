@@ -38,7 +38,7 @@ The dashboard helps answer important financial questions such as:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/Finance Dashboard Overview.png)
 
 ---
 
